@@ -5,7 +5,7 @@
 **Average**
 Time Complexity: O(N), where N is the length of nums.
 
-## Space Complexity: O(1), the space used by leftsum and S.
+Space Complexity: O(1), the space used by leftsum and S.
 
 ## Task
 
