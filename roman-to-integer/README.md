@@ -1,18 +1,18 @@
-# Running Sum of 1d Array
+# Roman to Integer
 
 ## Space Time Complexity
 
 **Average**
 
-O(N) time where n is the length of the input array. This is because we use a single loop that iterates over the entire array to calculate the running sum.
+O(N) time where n is the length of the input array. This is because we use a single loop that iterates over the entire array to calculate the integer from the roman numbers.
 
-O(1) space since we don't use any additional space to find the running sum. Note that we do not take into consideration the space occupied by the output array.
+O(1) space since we don't use any additional space to find the accumulator
 
 ---
 
 ## Task
 
-[Link to Leetcode](https://leetcode.com/problems/running-sum-of-1d-array/)
+[Link to Leetcode](https://leetcode.com/problems/roman-to-integer/)
 
 Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 
